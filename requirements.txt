@@ -1,7 +1,5 @@
-[python]
-version = "3.12"
 streamlit
-requests
 numpy
 tensorflow
 Pillow
+requests
